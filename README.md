@@ -23,7 +23,7 @@
 <br />
 
 <details>
-  <summary><h3>▶ Technologies</h3></summary>
+  <summary><h3> Technologies</h3></summary>
 
   ### Languages
 

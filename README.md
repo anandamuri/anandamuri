@@ -1,6 +1,6 @@
 <h2 align="left"> Hello 🤙 ! a student at the University of Michigan. I'm currently a Computer Science Engineering(CSE) and BBA student @ the University of Michigan, Ann Arbor</h2>
 
-<p> I’m passionate about software engineering and r&d of machine learning and artificial intelligence. I love building projects and enjoy solving problems that are given to me. I’m eager to contribute my expertise to meaningful projects and expand my experiences. When I'm not coding, you can catch me at the gym or playing football. Feel free to reach out; I would love to chat. </p>
+<p> I’m passionate about software engineering and r&d of machine learning and artificial intelligence. I love building projects and enjoy solving problems. I’m eager to contribute my expertise to meaningful projects and expand my experiences. When I'm not coding, you can catch me at the gym or playing football. Feel free to reach out; I would love to chat. </p>
 
 <div align="left">
   <a href="https://www.linkedin.com/">

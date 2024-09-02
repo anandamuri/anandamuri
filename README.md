@@ -2,7 +2,7 @@
 
 <p> I’m passionate about software engineering and r&d of machine learning and artificial intelligence. I love building projects and enjoy solving problems that are given to me. I’m eager to contribute my expertise to meaningful projects and expand my experiences. When I'm not coding, you can catch me at the gym or playing football. Feel free to reach out; I would love to chat. </p>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>

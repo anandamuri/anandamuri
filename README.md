@@ -1,9 +1,6 @@
 <h2 align="left">Hello 👋! My name is Anish and I'm a student at the University of Michigan. </h2>
 
 Hello! I’m Anish, a student at the University of Michigan. I’m passionate about software engineering and r&d of machine learning and artificial intelligence. I love building projects and enjoy solving problems that are given to me. I’m eager to contribute my expertise to meaningful projects and further expand my experiences. When I'm not coding, you can catch me at the gym or playing sports. Feel free to reach out, I would love to chat.
-Website: anishnandamuri.com 
-Github: https://github.com/anandamuri 
-
 
 ###
 

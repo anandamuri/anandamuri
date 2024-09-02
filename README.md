@@ -29,6 +29,7 @@
 
   <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+    <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC" />
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" />

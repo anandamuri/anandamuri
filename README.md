@@ -5,8 +5,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2" />
-  </a><a href="https://dev.to/">
-    <img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000" />
   </a><a href="https://yourwebsite.com/">
     <img src="https://img.shields.io/badge/-My%20Website-F7931E?style=for-the-badge&logo=About.me&logoColor=white&labelColor=F7931E" />
   </a><a href="mailto:your-email@example.com">

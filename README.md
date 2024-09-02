@@ -61,12 +61,3 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" />
 </div>
-
-### Misc
-
-<div>
-  <img src="https://img.shields.io/badge/-REST-FF6F00?style=for-the-badge&labelColor=FF6F00" />
-  <img src="https://img.shields.io/badge/-MVC-00C853?style=for-the-badge&labelColor=00C853" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D" />
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" />
-</div>

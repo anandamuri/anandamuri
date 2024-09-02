@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anish and I'm a student at the University of Michigan. </h2>
+<h2 align="left">Hello 👋! My name is Anish and I'm a student at the University of Michigan. </h2>
 
 ###
 

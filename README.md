@@ -13,7 +13,7 @@
 </div>
 
 <details>
-  <h3> <summary> Technologies </summary></h3>
+  <summary><h3> Technologies</h3></summary>
 
   ### Languages
 

@@ -22,7 +22,7 @@
 
 <br />
 
-<h3>▼ My Tech Knowledge</h3>
+<h3>▼ Technologies </h3>
 
 ### Languages
 

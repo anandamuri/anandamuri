@@ -7,9 +7,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://anandamuri.github.io/portfolio/index.html">
+  <a href="https://anandamuri.github.io/portfolio/index.html" 
+     style="display: inline-flex; align-items: center; background-color: #F7931E; padding: 8px 12px; border-radius: 5px; text-decoration: none; font-weight: bold; color: white;">
     <img src="https://raw.githubusercontent.com/anandamuri/portfolio/main/assets/my-logo-light.png" 
          alt="Website Logo" height="20" style="margin-right: 8px;"/> 
+    Website
   </a>&nbsp;&nbsp;
 
   <a href="mailto:your-email@example.com">

@@ -11,8 +11,7 @@
     <img src="https://img.shields.io/badge/-Website-F7931E?style=for-the-badge&logoColor=white&labelColor=F7931E" />
   </a>
 
-  <a href="mailto:your-email@example.com" 
-     style="display: inline-block; background-color: #EA4335; color: white; font-weight: bold; padding: 10px 16px; border-radius: 5px; text-decoration: none; font-size: 14px;">
-    Email
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335" />
   </a>
 </div>

@@ -12,6 +12,5 @@
   </a>&nbsp;&nbsp;
 
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335" />
   </a>
 </div>

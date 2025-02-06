@@ -8,7 +8,7 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://anandamuri.github.io/portfolio/index.html">
-    <img src="https://img.shields.io/badge/-Website-F7931E?style=for-the-badge&logo=About.me&logoColor=white&labelColor=F7931E" />
+    <img src="https://img.shields.io/badge/-Website-F7931E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA" />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:your-email@example.com">

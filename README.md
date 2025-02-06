@@ -4,6 +4,6 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;&nbsp;
-  <a href="https://anandamuri.github.io/portfolio/index.html"><img src="https://github.dev/anandamuri/portfolio/blob/main/assets/my-logo-light.png" /></a>&nbsp;&nbsp;
+  <a href="https://anandamuri.github.io/portfolio/index.html"><img src="https://raw.githubusercontent.com/anandamuri/portfolio/main/assets/my-logo-light.png" /></a>&nbsp;&nbsp;
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335" /></a>
 </div>

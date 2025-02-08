@@ -1,7 +1,40 @@
-<h2 align="left">Hey 🔥!<br>I'm studying Computer Science and Business @ the University of Michigan</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website</title>
+    <style>
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
 
-<p>I’m passionate about swe, quant, and r&d of ml/ai. I love building projects and enjoy solving problems. I’m eager to contribute my expertise to meaningful projects and expand my experiences. When I'm not coding, you can catch me at the gym or playing football. Feel free to reach out; I would love to chat.</p>
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
 
-<div align="left" style="display: flex; gap: 15px; align-items: center; justify-content: flex-start;">
-  <a href="https://www.linkedin.com/in/anishnandamuri/" style="text-decoration: none; outline: none; border: none; display: inline-block;"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2" /></a><a anishnandamuri.com style="text-decoration: none; outline: none; border: none; display: inline-block;"><img src="https://img.shields.io/badge/-Website-F7931E?style=for-the-badge&logoColor=white&labelColor=F7931E" /></a><a href="mailto:anishn@umich.edu" style="text-decoration: none; outline: none; border: none; display: inline-block;"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335" /></a>
-</div>
+    <!-- Button using direct link -->
+    <a href="https://anishnandamuri.com" target="_blank">
+        <button>Visit My Website</button>
+    </a>
+
+    <!-- Alternative button using JavaScript -->
+    <button id="redirectButton">Go to My Website</button>
+
+    <script>
+        document.getElementById("redirectButton").addEventListener("click", function() {
+            window.location.href = "https://anishnandamuri.com";
+        });
+    </script>
+
+</body>
+</html>

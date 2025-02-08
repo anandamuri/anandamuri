@@ -2,7 +2,7 @@
 
 <p>I’m passionate about SWE, quant, and R&D of ML/AI. I love building projects and enjoy solving problems. I’m eager to contribute my expertise to meaningful projects and expand my experiences. When I'm not coding, you can catch me at the gym or playing football. Feel free to reach out; I would love to chat.</p>
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; font-size: 0;">
   <a href="https://www.linkedin.com/in/anishnandamuri/" style="text-decoration: none; outline: none; border: none; display: inline-block;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0A66C2" />
   </a><a href="https://anishnandamuri.com" style="text-decoration: none; outline: none; border: none; display: inline-block;">

@@ -6,7 +6,7 @@
 
 <p>
   👾 Welcome to my profile! <br>
-  🔥 I’m passionate about SWE, quant, and R&D of ML/AI. <br>
+  🔥 I’m passionate about SWE, Quant, and R&D of ML/AI. <br>
   🛠️ I love building projects and enjoy solving problems. <br>
   🏈 When I'm not coding, you can catch me at the gym or playing football. <br>
   😃 Feel free to reach out; I would love to chat.

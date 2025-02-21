@@ -1,7 +1,7 @@
 <h2 align="left">
   Hey, I'm Anish 🤙
   <br>
-  I'm studying Computer Science and Business @ the University of Michigan
+  I'm studying Computer Science & Business @ the University of Michigan
 </h2>
 
 <p>

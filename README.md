@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hey, I'm Anish 🤙
+  Hey, I'm Anish
   <br>
   I'm studying Computer Science & Business @ the University of Michigan
 </h2>

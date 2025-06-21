@@ -1,4 +1,4 @@
 ```
-[anishnandamuri.com](https://anishnandamuri.com)
+anishnandamuri.com
 ```
 
